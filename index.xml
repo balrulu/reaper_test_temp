@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="BLT SelectMove Test" commit="b9d337c7c326ee8b86343985544dc00847049715">
+<index version="1" name="BLT SelectMove Test" commit="883b8389f2369f11bdc5de532ee8b9c373314566">
   <category name="Extensions">
-    <reapack name="BLT_SelectMove.ext" type="extension" desc="BLT SelectMove">
-      <version name="0.2.3" author="Balrulu" time="2026-10-10T18:38:19Z">
+    <reapack name="BLT_EXTEND_MARQUEE_TO_MARKERS_REGIONS.ext" type="extension" desc="BLT EXTEND MARQUEE TO MARKERS / REGIONS">
+      <version name="0.2.3" author="Balrulu" time="2026-10-10T19:05:08Z">
         <changelog><![CDATA[Initial test release]]></changelog>
-        <source platform="win64" file="reaper_blt_selectmove.dll">https://github.com/balrulu/reaper_test_temp/raw/b9d337c7c326ee8b86343985544dc00847049715/Extensions/reaper_blt_selectmove.dll</source>
-        <source platform="darwin64" file="reaper_blt_selectmove.dylib">https://github.com/balrulu/reaper_test_temp/raw/b9d337c7c326ee8b86343985544dc00847049715/Extensions/reaper_blt_selectmove.dylib</source>
-        <source platform="darwin-arm64" file="reaper_blt_selectmove.dylib">https://github.com/balrulu/reaper_test_temp/raw/b9d337c7c326ee8b86343985544dc00847049715/Extensions/reaper_blt_selectmove.dylib</source>
+        <source platform="win64" file="reaper_blt_extend_marquee_to_markers_regions.dll">https://github.com/balrulu/reaper_test_temp/raw/85c8801aaddcdf602f4a4dd0f080bb5cc986c3b8/Extensions/reaper_blt_extend_marquee_to_markers_regions.dll</source>
+        <source platform="darwin64" file="reaper_blt_extend_marquee_to_markers_regions.dylib">https://github.com/balrulu/reaper_test_temp/raw/85c8801aaddcdf602f4a4dd0f080bb5cc986c3b8/Extensions/reaper_blt_extend_marquee_to_markers_regions.dylib</source>
+        <source platform="darwin-arm64" file="reaper_blt_extend_marquee_to_markers_regions.dylib">https://github.com/balrulu/reaper_test_temp/raw/85c8801aaddcdf602f4a4dd0f080bb5cc986c3b8/Extensions/reaper_blt_extend_marquee_to_markers_regions.dylib</source>
       </version>
     </reapack>
   </category>
@@ -15,8 +15,8 @@
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 BLT SelectMove - ReaPack Test\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Temporary ReaPack repository for testing BLT SelectMove on Windows and macOS.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 BLT EXTEND MARQUEE TO MARKERS / REGIONS - ReaPack Test\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Temporary ReaPack repository for testing BLT EXTEND MARQUEE TO MARKERS / REGIONS on Windows and macOS.\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 ReaPack repository URL\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 https://github.com/balrulu/reaper_test_temp/raw/main/index.xml\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Platforms\par}
