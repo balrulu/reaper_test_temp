@@ -1,8 +1,0 @@
-@description BLT SelectMove
-@author Balrulu
-@version 0.2.3
-@changelog Initial test release
-@provides
-  [win64] reaper_blt_selectmove.dll
-  [darwin64] reaper_blt_selectmove.dylib
-  [darwin-arm64] reaper_blt_selectmove.dylib
