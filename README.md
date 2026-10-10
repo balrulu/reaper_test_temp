@@ -1,6 +1,6 @@
-# BLT SelectMove - ReaPack Test
+# BLT EXTEND MARQUEE TO MARKERS / REGIONS - ReaPack Test
 
-Temporary ReaPack repository for testing BLT SelectMove on Windows and macOS.
+Temporary ReaPack repository for testing BLT EXTEND MARQUEE TO MARKERS / REGIONS on Windows and macOS.
 
 ## ReaPack repository URL
 
