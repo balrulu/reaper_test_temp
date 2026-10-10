@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="BLT SelectMove Test" commit="b9d337c7c326ee8b86343985544dc00847049715">
+  <category name="Extensions">
+    <reapack name="BLT_SelectMove.ext" type="extension" desc="BLT SelectMove">
+      <version name="0.2.3" author="Balrulu" time="2026-10-10T18:38:19Z">
+        <changelog><![CDATA[Initial test release]]></changelog>
+        <source platform="win64" file="reaper_blt_selectmove.dll">https://github.com/balrulu/reaper_test_temp/raw/b9d337c7c326ee8b86343985544dc00847049715/Extensions/reaper_blt_selectmove.dll</source>
+        <source platform="darwin64" file="reaper_blt_selectmove.dylib">https://github.com/balrulu/reaper_test_temp/raw/b9d337c7c326ee8b86343985544dc00847049715/Extensions/reaper_blt_selectmove.dylib</source>
+        <source platform="darwin-arm64" file="reaper_blt_selectmove.dylib">https://github.com/balrulu/reaper_test_temp/raw/b9d337c7c326ee8b86343985544dc00847049715/Extensions/reaper_blt_selectmove.dylib</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 BLT SelectMove - ReaPack Test\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Temporary ReaPack repository for testing BLT SelectMove on Windows and macOS.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 ReaPack repository URL\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 https://github.com/balrulu/reaper_test_temp/raw/main/index.xml\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel1 \b \fs32 Platforms\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Windows x64\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab macOS Intel (x86_64)\par}
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab macOS Apple Silicon (arm64)\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 This repository is for testing before publishing to the main BLT repository.\par}
+}
+]]></description>
+  </metadata>
+</index>
